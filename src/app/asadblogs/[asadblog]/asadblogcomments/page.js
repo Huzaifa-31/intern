@@ -1,5 +1,7 @@
-export default function asadblogcomments(){
-      return <>
+export default function asadblogcomments() {
+  return (
+    <>
       <div>all comments on blog</div>
-      </>
+    </>
+  );
 }

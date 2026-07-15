@@ -1,4 +1,7 @@
-export default function asadblog(){
-    return <>
-    <p>asad specific blog</p></>
+export default function asadblog() {
+  return (
+    <>
+      <p>asad specific blog</p>
+    </>
+  );
 }
