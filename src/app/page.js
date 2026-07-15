@@ -6,6 +6,7 @@ export default function Home() {
  <div>
   <h1>Hello, Next.js!</h1>
   <p>Welcome to my Next.js application.</p> 
+  <p>Next.js is a powerful framework for building server-rendered React applications.</p>
  </div>
   );
 }
